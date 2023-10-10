@@ -8,14 +8,14 @@ using namespace std;
 void multi4(){
     int num;
     cin >> num;
-    cout << ((num % 4) == 0? "É multiplo de 4" : "Não é multiplo de 4") << endl;
+    cout << ((num % 4) == 0? "Eh multiplo de 4" : "Nao eh multiplo de 4") << endl;
 }
 
 //2
 void parOuImpar(){
     int num;
     cin >> num;
-    cout << ((num % 2) == 0? "Par" : "Ímpar") << endl;
+    cout << ((num % 2) == 0? "Par" : "Impar") << endl;
 }
 
 //3
