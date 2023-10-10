@@ -65,4 +65,6 @@ int main(){
     calcVolume();
     fatorial();
     potencia();
+    
+    return 0;
 }
